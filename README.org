@@ -1,0 +1,3 @@
+=font-awesome.el= is a simple library for using [[http://fortawesome.github.io/Font-Awesome/][Font Awesome]] in Emacs.
+
+[[./screenshot.png]]
