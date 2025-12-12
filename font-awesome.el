@@ -1,3 +1,4 @@
+;; -*- lexical-binding: t; -*-
 ;;; font-awesome.el --- A simple library for using FontAwesome icons.
 
 ;;; Commentary:
